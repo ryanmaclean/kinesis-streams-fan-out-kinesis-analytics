@@ -11,10 +11,11 @@ This repository is a reference architecture to **solve the fan-out problem with 
 
 
 <p align="center">
-  <img src="https://docs.aws.amazon.com/kinesisanalytics/latest/dev/images/kinesis-app.png" alt="Kinesis Analytics architecture"/>
+  <img src="https://docs.aws.amazon.com/kinesisanalytics/latest/dev/images/kinesis-app.png" alt="Kinesis Analytics architecture"/><br/>
+  (image source: [AWS Documentation](http://docs.aws.amazon.com/kinesisanalytics/latest/dev/how-it-works.html))
 </p>
 
-(image source: [AWS Documentation](http://docs.aws.amazon.com/kinesisanalytics/latest/dev/how-it-works.html))
+
 
 ## What's the scenario?
 
