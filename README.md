@@ -14,7 +14,7 @@ This repository is a reference architecture to **solve the fan-out problem with 
   <img src="https://docs.aws.amazon.com/kinesisanalytics/latest/dev/images/kinesis-app.png" alt="Kinesis Analytics architecture"/>
 </p>
 
-(image source: [AWS Documentation](http://docs.aws.amazon.com/kinesisanalytics/latest/dev/how-it-works.html) )
+(image source: [AWS Documentation](http://docs.aws.amazon.com/kinesisanalytics/latest/dev/how-it-works.html))
 
 ## What's the scenario?
 
