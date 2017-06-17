@@ -15,7 +15,7 @@ This repository is a reference architecture to **solve the fan-out problem with 
 </p>
 
 <center>
-(image source: [AWS Documentation](http://docs.aws.amazon.com/kinesisanalytics/latest/dev/how-it-works.html) )
+(image source: [AWS Documentation](http://docs.aws.amazon.com/kinesisanalytics/latest/dev/how-it-works.html))
 <center>
 
 
